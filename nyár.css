@@ -1,0 +1,31 @@
+html {
+    background-image: url(kepek/bg.jpg);
+    font-family: 'Courier New', Courier, monospace;
+}
+table {
+    border: solid rgb(65, 65, 122) 4px;
+}
+
+td, th {
+    border: solid rgb(65, 65, 122) 3px;
+    background-color: rgba(240, 224, 224, 0.26);
+}
+h1 {
+    text-align: center;
+    border: solid rgb(65, 65, 122) 3px;
+
+}
+
+.tablazat {
+    margin: auto;
+    width: 900px;
+    
+}
+
+b {
+    color: rgb(0, 0, 0);
+}
+
+th {
+    background-color: rgba(0, 0, 255, 0.178);
+}
